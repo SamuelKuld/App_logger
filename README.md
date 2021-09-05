@@ -1,0 +1,2 @@
+# App_logger
+This basically allows you to track how long you've had any process open. It'll keep a global all-time log of the amount of time each exe has been open, it'll also keep track of the paths to the file. I plan to implement a feature to allow the data to be stored in a json sort of fashion and then export it as an html file with the ico of the exe and its pertaining data, but it's for a later time.

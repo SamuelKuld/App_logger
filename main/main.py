@@ -128,6 +128,7 @@ def main():
   while 1:
     for i in range(10):
       start2 = time.time()
+      time.sleep(60)
       initial_process_list = add_processes(initial_process_list, initial_process_path_list, time_incriment=(end - start))
       initial_process_path_list = get_all_running_process_paths()
       read_string = []

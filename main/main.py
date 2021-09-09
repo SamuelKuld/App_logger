@@ -23,13 +23,11 @@ def remove_repeat_processes(processes):
   return proper_processes
 
 
-# needs to be updated to exclude repeat processes
 def get_all_running_processes():
     process_list = []
     removed_process_list = remove_repeat_processes(psutil.process_iter())
     for process in removed_process_list:
         try:
-            # Get process name & pid from process object.
             name = process.name()
             path = process.exe()
             process_list.append(Process(name, path, actual_process_object=process))
@@ -39,7 +37,7 @@ def get_all_running_processes():
 
     return process_list
 
-# Needs to be updated to exclude repeat processes
+
 def get_all_running_process_paths():
     path_list = []
     process_list = remove_repeat_processes(psutil.process_iter())
@@ -61,10 +59,7 @@ def get_process_paths(process_list):
             pass
 
     return path_list
-
-
-# If we wait 5 seconds in between times, we can compare the processes to the old ones and see if they're in them
-# If they are, we add 5 to the time_running, if they're not, then we simply move on. That way we keep the old processes and move to the new ones
+    
 
 def add_processes(old_processes : list, old_process_paths : list, time_incriment : float or int = 5):
     process_paths = get_all_running_process_paths()
@@ -74,7 +69,8 @@ def add_processes(old_processes : list, old_process_paths : list, time_incriment
             old_processes[old_process_paths.index(process_path)].time_running += round(time_incriment)
         else:
             old_processes.append(new_processes[index])
-    return old_processes
+            old_process_paths.append(process_paths[index])
+    return old_processes, old_process_paths
 
 
 def get_all_process_times(processes):
@@ -128,17 +124,17 @@ def main():
   while 1:
     for i in range(10):
       start2 = time.time()
-      time.sleep(60)
-      initial_process_list = add_processes(initial_process_list, initial_process_path_list, time_incriment=(end - start))
-      initial_process_path_list = get_all_running_process_paths()
+      time.sleep(0)
+      initial_process_list, initial_process_path_list = add_processes(initial_process_list, initial_process_path_list, time_incriment=(end - start))
       read_string = []
       for process in initial_process_list:
         read_string.append(f'name : {process.name}\nTime running : {process.time_running}\npath : {process.path}\n{"-"*10}\n')
+        time.sleep(.05)
       dump_readable("".join(read_string))
       start = end
       end = time.time()
       print(f"Total time : {time.time() - start2}")
-    dump(initial_process_list, initial_process_path_list)
+      dump(initial_process_list, initial_process_path_list)
 
 if __name__ == "__main__":
   main()

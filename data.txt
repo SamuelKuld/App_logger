@@ -1,405 +1,405 @@
 name : System
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : 
 ----------
 name : chrome.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\Google\Chrome\Application\chrome.exe
 ----------
 name : fontdrvhost.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\fontdrvhost.exe
 ----------
 name : Registry
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : Registry
 ----------
 name : McUICnt.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\Common Files\McAfee\Platform\McUICnt.exe
 ----------
 name : smss.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\smss.exe
 ----------
 name : winlogon.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\winlogon.exe
 ----------
 name : csrss.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\csrss.exe
 ----------
 name : svchost.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\svchost.exe
 ----------
 name : wininit.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\wininit.exe
 ----------
 name : services.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\services.exe
 ----------
 name : lsass.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\lsass.exe
 ----------
 name : WUDFHost.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\WUDFHost.exe
 ----------
 name : dwm.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\dwm.exe
 ----------
 name : CxUtilSvc.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\CxSvc\CxUtilSvc.exe
 ----------
 name : IntelCpHDCPSvc.exe
-Time running : 203.7400683403015
+Time running : 197.7400683403015
 path : C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7bb3292f9ff6ca83\IntelCpHDCPSvc.exe
 ----------
 name : IntelCpHeciSvc.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7bb3292f9ff6ca83\IntelCpHeciSvc.exe
 ----------
 name : igfxCUIService.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_f9ca5049844dde2a\igfxCUIService.exe
 ----------
 name : dasHost.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\dasHost.exe
 ----------
 name : GitHubDesktop.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Users\hotel\AppData\Local\GitHubDesktop\app-2.9.3\GitHubDesktop.exe
 ----------
 name : RuntimeBroker.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\RuntimeBroker.exe
 ----------
 name : MemCompression
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : MemCompression
 ----------
 name : Lenovo.Modern.ImController.PluginHost.Device.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\Lenovo\ImController\PluginHost86\Lenovo.Modern.ImController.PluginHost.Device.exe
 ----------
 name : audiodg.exe
-Time running : 203.7400683403015
+Time running : 197.7400683403015
 path : C:\Windows\System32\audiodg.exe
 ----------
 name : spoolsv.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\spoolsv.exe
 ----------
 name : Lenovo.Modern.ImController.PluginHost.SettingsApp.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\Lenovo\ImController\PluginHost\Lenovo.Modern.ImController.PluginHost.SettingsApp.exe
 ----------
 name : wlanext.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\wlanext.exe
 ----------
 name : conhost.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\conhost.exe
 ----------
 name : Intel_PIE_Service.exe
-Time running : 202.5173400878906
+Time running : 196.5173400878906
 path : C:\Windows\System32\DriverStore\FileRepository\piecomponent.inf_amd64_47a3c840f4f369ff\Intel_PIE_Service.exe
 ----------
 name : sihost.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\sihost.exe
 ----------
 name : igfxEM.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_f9ca5049844dde2a\igfxEM.exe
 ----------
 name : Lenovo.Vantage.AddinHost.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files (x86)\Lenovo\VantageService\3.8.23.0\Lenovo.Vantage.AddinHost.exe
 ----------
 name : taskhostw.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\taskhostw.exe
 ----------
 name : mfemms.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\Common Files\McAfee\SystemCore\mfemms.exe
 ----------
 name : Lenovo.Modern.ImController.PluginHost.CompanionApp.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\Lenovo\ImController\PluginHost86\Lenovo.Modern.ImController.PluginHost.CompanionApp.exe
 ----------
 name : Code.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Users\hotel\AppData\Local\Programs\Microsoft VS Code\Code.exe
 ----------
 name : rundll32.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\rundll32.exe
 ----------
 name : PEFService.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe
 ----------
 name : ModuleCoreService.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\Common Files\McAfee\ModuleCore\ModuleCoreService.exe
 ----------
 name : LenovoVantageService.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files (x86)\Lenovo\VantageService\3.8.23.0\LenovoVantageService.exe
 ----------
 name : Lenovo.Modern.ImController.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\Lenovo\ImController\Service\Lenovo.Modern.ImController.exe
 ----------
 name : CxAudioSvc.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\CxSvc\CxAudioSvc.exe
 ----------
 name : CxAudMsg64.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\CxAudMsg64.exe
 ----------
 name : OfficeClickToRun.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
 ----------
 name : explorer.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\explorer.exe
 ----------
 name : DAX3API.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\dolbyaposvc\DAX3API.exe
 ----------
 name : McPvTray.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\McAfee\MAT\McPvTray.exe
 ----------
 name : OneApp.IGCC.WinService.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_51eba5fdc2382038\OneApp.IGCC.WinService.exe
 ----------
 name : ApplicationFrameHost.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\ApplicationFrameHost.exe
 ----------
 name : IntelAudioService.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\cAVS\Intel(R) Audio Service\IntelAudioService.exe
 ----------
 name : RstMwService.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\DriverStore\FileRepository\iaahcic.inf_amd64_48973fc6c96c696a\RstMwService.exe
 ----------
 name : IGCCTray.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\WindowsApps\AppUp.IntelGraphicsExperience_1.100.3370.0_x64__8j3eq9eme6ctt\GCP.ML.BackgroundSysTray\IGCCTray.exe
 ----------
 name : MsMpEng.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2107.4-0\MsMpEng.exe
 ----------
 name : jhi_service.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_ffc75848a6342fdf\jhi_service.exe
 ----------
 name : MMSSHOST.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.exe
 ----------
 name : mfevtps.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\mfevtps.exe
 ----------
 name : ProtectedModuleHost.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\Common Files\McAfee\ModuleCore\ProtectedModuleHost.exe
 ----------
 name : SearchApp.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
 ----------
 name : StartMenuExperienceHost.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
 ----------
 name : GoogleCrashHandler.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Program Files (x86)\Google\Update\1.3.36.102\GoogleCrashHandler.exe
 ----------
 name : GoogleCrashHandler64.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Program Files (x86)\Google\Update\1.3.36.102\GoogleCrashHandler64.exe
 ----------
 name : TextInputHost.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe
 ----------
 name : SearchIndexer.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\SearchIndexer.exe
 ----------
 name : NisSrv.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2107.4-0\NisSrv.exe
 ----------
 name : YourPhone.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21072.160.0_x64__8wekyb3d8bbwe\YourPhone.exe
 ----------
 name : ShellExperienceHost.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
 ----------
 name : Microsoft.Photos.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21070.22007.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe
 ----------
 name : McCSPServiceHost.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Program Files\Common Files\McAfee\CSP\4.3.107.0\McCSPServiceHost.exe
 ----------
 name : SettingSyncHost.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\SettingSyncHost.exe
 ----------
 name : ctfmon.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\ctfmon.exe
 ----------
 name : TabTip.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe
 ----------
 name : LockApp.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
 ----------
 name : mcapexe.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Program Files\Common Files\McAfee\VSCore_21_4\mcapexe.exe
 ----------
 name : backgroundTaskHost.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\backgroundTaskHost.exe
 ----------
 name : servicehost.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\McAfee\WebAdvisor\servicehost.exe
 ----------
 name : Video.UI.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.21061.10121.0_x64__8wekyb3d8bbwe\Video.UI.exe
 ----------
 name : Calculator.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe\Calculator.exe
 ----------
 name : MfeAVSvc.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\McAfee\MfeAV\MfeAVSvc.exe
 ----------
 name : uihost.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\McAfee\WebAdvisor\uihost.exe
 ----------
 name : mcshield.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe
 ----------
 name : dllhost.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\dllhost.exe
 ----------
 name : Cortana.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_3.2108.25001.0_x64__8wekyb3d8bbwe\Cortana.exe
 ----------
 name : IGCC.exe
-Time running : 203.84006834030146
+Time running : 226.84006834030146
 path : C:\Program Files\WindowsApps\AppUp.IntelGraphicsExperience_1.100.3370.0_x64__8j3eq9eme6ctt\IGCC.exe
 ----------
 name : McSmtFwk.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\Common Files\McAfee\Platform\MSM\McSmtFwk.exe
 ----------
 name : SecurityHealthSystray.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\SecurityHealthSystray.exe
 ----------
 name : SecurityHealthService.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\SecurityHealthService.exe
 ----------
 name : KBOSD.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Program Files\Lenovo\Lenovo Ultraslim Wireless Keyboard\KBOSD.exe
 ----------
 name : OneDrive.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Users\hotel\AppData\Local\Microsoft\OneDrive\OneDrive.exe
 ----------
 name : CodeHelper.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Users\hotel\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\platform\files\node\watcher\win32\CodeHelper.exe
 ----------
 name : OIPDevApp.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files\WindowsApps\34791E63.CanonOfficePrinterUtility_12.7.0.0_x64__6e5tt8cgb93ep\OIPDevApp.exe
 ----------
 name : Lenovo.Vantage.AddinHost.Amd64.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Program Files (x86)\Lenovo\VantageService\3.8.23.0\Lenovo.Vantage.AddinHost.Amd64.exe
 ----------
 name : pythonw.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Users\hotel\AppData\Local\Programs\Python\Python39\pythonw.exe
 ----------
 name : mstsc.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\mstsc.exe
 ----------
 name : SgrmBroker.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\SgrmBroker.exe
 ----------
 name : SystemSettings.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\ImmersiveControlPanel\SystemSettings.exe
 ----------
 name : UserOOBEBroker.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Windows\System32\oobe\UserOOBEBroker.exe
 ----------
 name : python.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Users\hotel\AppData\Local\Programs\Python\Python39\python.exe
 ----------
 name : SDXHelper.exe
-Time running : 203.84006834030146
+Time running : 291.84006834030146
 path : C:\Program Files\Microsoft Office\root\Office16\SDXHelper.exe
 ----------
 name : powershell.exe
-Time running : 203.84006834030146
+Time running : 197.84006834030146
 path : C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
 ----------
 name : QcShm.exe
-Time running : 167.07797527313238
+Time running : 261.0779752731324
 path : C:\Program Files\McAfee\MQS\QcShm.exe
 ----------
 name : SearchProtocolHost.exe
-Time running : 157.28699579238895
+Time running : 251.28699579238895
 path : C:\Windows\System32\SearchProtocolHost.exe
 ----------
 name : smartscreen.exe
@@ -411,26 +411,182 @@ Time running : 109.44947423934937
 path : C:\Windows\System32\audiodg.exe
 ----------
 name : SearchFilterHost.exe
-Time running : 92.10948443412781
+Time running : 186.1094844341278
 path : C:\Windows\System32\SearchFilterHost.exe
 ----------
 name : WmiPrvSE.exe
-Time running : 17.055361032485962
+Time running : 111.05536103248596
 path : C:\Windows\System32\wbem\WmiPrvSE.exe
 ----------
 name : SearchFilterHost.exe
-Time running : 0
+Time running : 94
 path : C:\Windows\System32\SearchFilterHost.exe
 ----------
 name : SearchProtocolHost.exe
-Time running : 0
+Time running : 94
 path : C:\Windows\System32\SearchProtocolHost.exe
 ----------
 name : notepad.exe
-Time running : 0
+Time running : 94
 path : C:\Windows\System32\notepad.exe
 ----------
+name : hpqste08.exe
+Time running : 94
+path : C:\Program Files (x86)\HP\Digital Imaging\bin\hpqste08.exe
+----------
+name : EpicGamesLauncher.exe
+Time running : 94
+path : C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+----------
+name : Taskmgr.exe
+Time running : 94
+path : C:\Windows\System32\Taskmgr.exe
+----------
+name : steamwebhelper.exe
+Time running : 94
+path : C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+----------
+name : GitHubDesktop.exe
+Time running : 94
+path : C:\Users\samue\AppData\Local\GitHubDesktop\app-2.9.3\GitHubDesktop.exe
+----------
+name : opera.exe
+Time running : 94
+path : C:\Users\samue\AppData\Local\Programs\Opera GX\78.0.4093.186\opera.exe
+----------
+name : Spotify.exe
+Time running : 94
+path : C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.166.580.0_x86__zpdnekdrzrea0\Spotify.exe
+----------
+name : Code.exe
+Time running : 94
+path : C:\Users\samue\AppData\Local\Programs\Microsoft VS Code\Code.exe
+----------
+name : atiesrxx.exe
+Time running : 94
+path : C:\Windows\System32\DriverStore\FileRepository\c0360470.inf_amd64_b06c374aee20d185\B360357\atiesrxx.exe
+----------
+name : hpqgpc01.exe
+Time running : 94
+path : C:\Program Files (x86)\HP\Digital Imaging\bin\hpqgpc01.exe
+----------
+name : hpwuschd2.exe
+Time running : 65
+path : C:\Program Files (x86)\HP\HP Software Update\hpwuschd2.exe
+----------
+name : python.exe
+Time running : 94
+path : C:\Users\samue\AppData\Local\Programs\Python\Python39\python.exe
+----------
+name : NisSrv.exe
+Time running : 94
+path : C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2108.7-0\NisSrv.exe
+----------
+name : atieclxx.exe
+Time running : 94
+path : C:\Windows\System32\DriverStore\FileRepository\c0360470.inf_amd64_b06c374aee20d185\B360357\atieclxx.exe
+----------
+name : aips.exe
+Time running : 94
+path : C:\Program Files (x86)\arcai.com\aips.exe
+----------
 name : dllhost.exe
-Time running : 0
+Time running : 94
 path : C:\Windows\SysWOW64\dllhost.exe
+----------
+name : netcut_windows.exe
+Time running : 94
+path : C:\Program Files (x86)\arcai.com\netcut_windows.exe
+----------
+name : remoting_host.exe
+Time running : 94
+path : C:\Program Files (x86)\Google\Chrome Remote Desktop\93.0.4577.8\remoting_host.exe
+----------
+name : RtkAudUService64.exe
+Time running : 94
+path : C:\Windows\System32\RtkAudUService64.exe
+----------
+name : KiteService.exe
+Time running : 94
+path : C:\Program Files\Kite\KiteService.exe
+----------
+name : ibtsiva.exe
+Time running : 94
+path : C:\Windows\System32\ibtsiva.exe
+----------
+name : MsMpEng.exe
+Time running : 94
+path : C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2108.7-0\MsMpEng.exe
+----------
+name : Battle.net.exe
+Time running : 94
+path : C:\Program Files (x86)\Battle.net\Battle.net.exe
+----------
+name : ui32.exe
+Time running : 94
+path : C:\Program Files (x86)\Steam\steamapps\common\wallpaper_engine\bin\ui32.exe
+----------
+name : WmiPrvSE.exe
+Time running : 94
+path : C:\Windows\System32\wbem\WmiPrvSE.exe
+----------
+name : steamservice.exe
+Time running : 94
+path : C:\Program Files (x86)\Common Files\Steam\steamservice.exe
+----------
+name : Discord.exe
+Time running : 94
+path : C:\Users\samue\AppData\Local\Discord\app-1.0.9002\Discord.exe
+----------
+name : EpicWebHelper.exe
+Time running : 94
+path : C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+----------
+name : opera_crashreporter.exe
+Time running : 94
+path : C:\Users\samue\AppData\Local\Programs\Opera GX\78.0.4093.186\opera_crashreporter.exe
+----------
+name : hpqbam08.exe
+Time running : 94
+path : C:\Program Files (x86)\HP\Digital Imaging\bin\hpqbam08.exe
+----------
+name : Agent.exe
+Time running : 94
+path : C:\ProgramData\Battle.net\Agent\Agent.7380\Agent.exe
+----------
+name : hpqtra08.exe
+Time running : 94
+path : C:\Program Files (x86)\HP\Digital Imaging\bin\hpqtra08.exe
+----------
+name : steam.exe
+Time running : 94
+path : C:\Program Files (x86)\Steam\steam.exe
+----------
+name : OneDrive.exe
+Time running : 94
+path : C:\Users\samue\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+----------
+name : Video.UI.exe
+Time running : 94
+path : C:\Program Files\WindowsApps\microsoft.zunevideo_10.21061.10121.0_x64__8wekyb3d8bbwe\Video.UI.exe
+----------
+name : kited.exe
+Time running : 0
+path : C:\Program Files\Kite\kited.exe
+----------
+name : jusched.exe
+Time running : 0
+path : C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+----------
+name : wallpaper32.exe
+Time running : 0
+path : C:\Program Files (x86)\Steam\steamapps\common\wallpaper_engine\wallpaper32.exe
+----------
+name : CodeHelper.exe
+Time running : 0
+path : C:\Users\samue\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\platform\files\node\watcher\win32\CodeHelper.exe
+----------
+name : cmd.exe
+Time running : 0
+path : C:\Windows\System32\cmd.exe
 ----------
